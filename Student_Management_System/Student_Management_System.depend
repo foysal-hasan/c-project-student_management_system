@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628499678 source:c:\users\foysal hasan\desktop\new folder (4)\project\student_management_system\student_management_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
